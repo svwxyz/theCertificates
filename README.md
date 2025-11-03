@@ -1,6 +1,10 @@
-# Certifications
-## Oracle AI Foundation Certificate
-This repository contains my Oracle AI Foundation certificate, which validates my knowledge of Artificial Intelligence fundamentals, Machine Learning basics, and Oracle Cloud AI services.
-## Badge Verification Link
-https://catalog-education.oracle.com/pls/certview/sharebadge?id=E90104E62315C2A12814D842DBEE797E71DEBAC68120D4AD7771EE289C25592F
+##🎓 My Certificates Repository
 
+This repository contains all the certificates I have achieved through various courses and virtual experiences.
+You can explore the folders to view the certificates and see my progress in different fields.
+
+##📂 Repository Structure
+
+Each folder contains a different certificate or program completion.
+
+You can open the folders to view the certificate files and related details.
